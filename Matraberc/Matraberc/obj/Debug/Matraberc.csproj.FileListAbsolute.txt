@@ -1,0 +1,8 @@
+C:\WPF projects\bi_jjdoga\Matraberc\Matraberc\bin\Debug\Matraberc.exe.config
+C:\WPF projects\bi_jjdoga\Matraberc\Matraberc\bin\Debug\Matraberc.exe
+C:\WPF projects\bi_jjdoga\Matraberc\Matraberc\bin\Debug\Matraberc.pdb
+C:\WPF projects\bi_jjdoga\Matraberc\Matraberc\obj\Debug\Matraberc.csproj.AssemblyReference.cache
+C:\WPF projects\bi_jjdoga\Matraberc\Matraberc\obj\Debug\Matraberc.csproj.SuggestedBindingRedirects.cache
+C:\WPF projects\bi_jjdoga\Matraberc\Matraberc\obj\Debug\Matraberc.csproj.CoreCompileInputs.cache
+C:\WPF projects\bi_jjdoga\Matraberc\Matraberc\obj\Debug\Matraberc.exe
+C:\WPF projects\bi_jjdoga\Matraberc\Matraberc\obj\Debug\Matraberc.pdb

@@ -1,0 +1,952 @@
+Név;Szül. év;Település;Idő;Nem
+Ádám Roland MB 11x  TMXL 8x ;1980;Petőfibánya;11:23;Férfi
+Ádám Tamás MB 7x ;1978;Nesoddtangen;10:47;Férfi
+Ady Beleanu;1970;;8:20;Férfi
+Agárdi Péter MB 5x ;1980;Budapest;11:33;Férfi
+Ágoston Dénes MB 6x  TMXL 5x ;1972;Pétervására;9:27;Férfi
+Albert Attila;1978;Budapest;12:37;Férfi
+Allaga Tamás;1991;Budapest;6:12;Férfi
+Ambach Balázs;1983;Budapest;11:40;Férfi
+Antal Zsolt MB 11x ;1972;Debrecen;9:36;Férfi
+Apró Anna;1988;Budapest;11:40;Nő
+Átol Csaba MB 17x ;1962;Pécs;9:34;Férfi
+B. Horváth Géza;1965;Fertőd;12:29;Férfi
+B. Tóth Attila TMXL 11x ;1973;Budapest;12:45;Férfi
+B. Tóth Mihály TMXL 9x ;1971;Zsámbék;12:55;Férfi
+Babinyecz Tamás MB 14x ;1978;Domony;6:58;Férfi
+Babinyecz Zoltán MB 13x ;1974;domony;7:20;Férfi
+Babós Gábor;1969;Szeged;11:38;Férfi
+Babosi György;1975;Nyíregyháza;9:46;Férfi
+Babus Dániel HK 7x ;1985;Gyöngyöspata;12:05;Férfi
+Bacsa János;1973;Jászberény;11:41;Férfi
+Bagdi István HK 5x  MB 5x  TML 5x  TMXL 7x ;1978;Hajdúnánás;11:18;Férfi
+Bagó Zsolt MB 10x  TMXL 8x ;1974;Gomba;9:13;Férfi
+Bakó Csaba MB 5x ;1968;Budapest;9:38;Férfi
+Bakó Dávid MB 13x  TMXL 6x ;1989;Kistarcsa;12:38;Férfi
+Baksa Péter;1979;Budapest;11:48;Férfi
+Balás Tamás;1966;Budapest;12:05;Férfi
+Balázs László;1978;Gomba;9:12;Férfi
+Balázs Péter;1979;Debrecen;11:09;Férfi
+Balázsiné Boros Linda TMXL 5x ;1979;Érd;12:19;Nő
+Bálint András TMXL 10x ;1976;Budapest;10:46;Férfi
+Bálint Tamás MB 6x ;1976;Nagykáta;10:38;Férfi
+Bálint Zoltán;1982;Kecskemét;11:58;Férfi
+Bálint Zoltán MB 6x  TMXL 8x ;1967;Debrecen;12:21;Férfi
+Bálint Zsolt;1978;Orosháza;11:40;Férfi
+Balog Elek MB 15x  TMXL 16x ;1980;Tök;11:10;Férfi
+Balogh Ágota;1974;;8:04;Nő
+Balogh Endre;1964;Debrecen;8:07;Férfi
+Balogh István;1969;Keszthely;12:56;Férfi
+Balogh István MB 8x ;1966;Budapest;9:07;Férfi
+Balogh Norbert MB 8x  TMM 5x  TMXL 8x ;1974;Markaz;11:42;Férfi
+Balogh Péter;1982;Eger;11:24;Férfi
+Baloghné Udvarhelyi Rózsa;1967;Budapest;12:34;Nő
+Bámer Teodóra;1991;Várpalota;11:57;Nő
+Bánfalvi Boldizsár;1996;Csömör;10:05;Férfi
+Bánhidi Zoltán;1976;Budapest;12:42;Férfi
+Bánhidy Attila MB 5x ;1980;Budapest;10:09;Férfi
+Baráth Anette Lora TMXL 7x ;1971;Debrecen;10:46;Nő
+Bárczay András TMXL 9x  OM45 1x ;1983;Budapest;12:21;Férfi
+Bardóczi István MB 16x  TMXL 13x ;1976;Markaz;10:30;Férfi
+Bárdos Miklós MB 18x  TMXL 13x ;1962;Borsodnádasd;9:51;Férfi
+Bársony Levente;1967;Diósd;11:41;Férfi
+Barta Árpád;1982;;12:56;Férfi
+Barta Gergő HK 6x ;1985;Gyöngyös;12:11;Férfi
+Barta Imre MB 11x  TML 6x  TMXL 6x ;1967;Szarvaskő;12:06;Férfi
+Barta-Rajnai Eszter MB 5x ;1985;Sopron;12:11;Nő
+Bartha Sándor HK 8x  MB 6x  TMXL 8x ;1967;Gyöngyöspata;11:12;Férfi
+Bartha Szilárd;1983;Debrecen;12:47;Férfi
+Bartkó Ildikó;1965;Litér;12:00;Nő
+Bartók Bálint;1985;Budapest;12:34;Férfi
+Bartók Tamás MB 6x ;1974;Budakeszi;12:18;Férfi
+Bátori István;1963;Perbál;12:48;Férfi
+Bazsó Gergely MB 16x  TMXL 9x ;1980;Jászberény;11:12;Férfi
+Bebesi László MB 5x  TMXL 6x ;1966;Budapest;12:28;Férfi
+Becher Ákos;1974;Budapest;8:41;Férfi
+Becskei Lajos MB 8x ;1974;Eger;11:55;Férfi
+Beliczky Péter MB 6x ;1979;Budapest;10:55;Férfi
+Bell Sándor MB 11x  TMXL 15x ;1952;Vác;11:24;Férfi
+Bencsik Tamás;1986;Nagykőrös;9:48;Férfi
+Benéné Márki Ilona;1963;Püspökladány;11:30;Nő
+Benke Grátzy;1971;Gyöngyöstarján;11:09;Férfi
+Benyovszki János MB 5x ;1978;Nadap;10:36;Férfi
+Benyovszky Péter MB 30x  TMXL 26x ;1969;Gyöngyös;11:48;Férfi
+Bércesi Gábor MB 27x  TMXL 17x  OM20 1x ;1964;Mátrafüred;12:44;Férfi
+Bérczi Tamás MB 9x  TMXL 5x ;1957;Szeged;11:28;Férfi
+Berecz Gábor MB 5x ;1984;Szolnok;9:42;Férfi
+Berecz Zoltán MB 19x ;1968;Szeged;11:53;Férfi
+Béres Attila;1971;;7:47;Férfi
+Bertalanits Attila;1993;Budapest;11:11;Férfi
+Besenyei Mónika;1973;Budapest;11:54;Nő
+Biri Dávid MB 5x  TMXL 7x ;1978;Budapest;10:15;Férfi
+Biriki Attila MB 5x  TMXL 6x ;1974;Kazincbarcika;7:04;Férfi
+Birnbaum István MU 5x  OM25 1x ;1979;Heves;9:19;Férfi
+Biró Ádám Bors;1985;Fót;10:58;Férfi
+Bíró Dániel MB 10x ;1986;Budapest;11:41;Férfi
+Bíró László;1967;Telki;10:56;Férfi
+Biró Szabolcs;1977;Budapest;12:19;Férfi
+Birszki Bálint;1976;Budapest;12:12;Férfi
+Birta Mária;1975;Budapest;12:44;Nő
+Bobok Péter;1972;Miskolc;10:31;Férfi
+Bocsi Márk MB 6x ;1991;Bátonyterenye;12:22;Férfi
+Bódi István MB 5x ;1985;Szeged;10:00;Férfi
+Bodnár András;1977;Szentendre;10:57;Férfi
+Bodó István HK 11x  MB 18x  TMXL 10x ;1969;Szeged;12:33;Férfi
+Bodó Karolina MB 10x  TMXL 9x ;1973;Szeged;12:25;Nő
+Bódor Sándor;1974;Budapest;6:59;Férfi
+Bodor Viktor MB 9x ;1977;Dunakeszi;11:51;Férfi
+Bodrogi Tibor;1970;Hajdúbagos;9:19;Férfi
+Bodzay Marcell MB 7x ;1993;Budapest;11:10;Férfi
+Boemelburg Tamás MB 10x  TMXL 7x ;1969;Budakalász;10:56;Férfi
+Bognár Viktor;1971;Göd;8:19;Férfi
+Bokros András MB 5x ;1984;Budapest;12:48;Férfi
+Bóla Emília;1975;Gárdony-Agárd;7:46;Nő
+Boncsér Zoltán;1969;Budapest;7:46;Férfi
+Bontovics Tímea;1967;Budapest;9:50;Nő
+Borbély Viktor MB 5x  TMXL 7x ;1975;Nagykovácsi;9:51;Férfi
+Boros László MB 21x  TMXL 8x ;1972;Gyál;8:44;Férfi
+Borosi György MB 6x  TMXL 5x ;1959;Gyöngyös;12:25;Férfi
+Borosnyay Balázs MB 14x ;1958;Budapest;9:08;Férfi
+Borosnyay Pál MB 12x ;1965;Budapest;8:47;Férfi
+Borsós Krisztián;1973;Budaörs;10:17;Férfi
+Borsós Tamás;1977;Sarkad;10:16;Férfi
+Botos István Csaba MB 15x  TMXL 14x ;1975;Nyírpazony;11:55;Férfi
+Bozó Szilvia;1977;Tarnalelesz;13:25;Nő
+Börcsök András;1970;;7:52;Férfi
+Böszörményi Gábor;1980;Budapest;11:17;Férfi
+Brackó Béla MB 7x ;1963;Tárnok;12:01;Férfi
+Brevákné Kiss Edit;1962;Dunakeszi;11:58;Nő
+Brózs József MB 13x ;1953;Balatonfüred;9:59;Férfi
+Buday Péter;1974;Budapest;7:41;Férfi
+Bunya Zoltán MB 6x ;1969;Budapest;12:10;Férfi
+Busi Zsuzsanna TMXL 7x ;1967;Zebegény;9:07;Nő
+Cojan Gabriel;1970;;6:22;Férfi
+Czeglédi Balázs;1988;Hajdúszoboszló;11:39;Férfi
+Czunyi Károly;1990;Gárdony;6:19;Férfi
+Csadó András MB 5x  TMXL 5x ;1980;Budapest;12:08;Férfi
+Csáky László;1974;Biatorbágy;8:28;Férfi
+Csánk Norbert;1976;Budapest;11:43;Férfi
+Csányi Csanya László;1970;;6:51;Férfi
+Csapó András MB 6x  TMXL 7x ;1970;Tarpa;8:50;Férfi
+Csapó Judit;1973;Osztopán;11:59;Nő
+Császár Csaba MB 10x ;1973;Győr;9:39;Férfi
+Császár Péter;1984;Budapest;11:03;Férfi
+Császár Szilveszter;1978;Algyő;11:19;Férfi
+Császár Tamás;1968;Budapest;9:42;Férfi
+Császár Zoltán;1974;Budapest;10:58;Férfi
+Csató Gábor Bálint;1987;Budapest;10:52;Férfi
+Cseh András MB 5x ;1976;Budapest;8:10;Férfi
+Csékei Márton;1980;Dunakeszi;10:05;Férfi
+Cselenkó József István;1950;Paks;11:22;Férfi
+Csépány László MB 13x  TMXL 10x ;1985;Gyöngyös;8:47;Férfi
+Csepcsényi Dénes;1997;Szolnok;11:26;Férfi
+Csepcsényi Márton;1991;Szolnok;11:26;Férfi
+Csépe György MB 7x  TMXL 11x ;1971;Gyöngyös;6:37;Férfi
+Cser M. Zoltán;1981;Zebegény;11:36;Férfi
+Cserni Mihály MB 16x  TMXL 7x ;1963;Pilisszentkereszt;12:14;Férfi
+Csicsely Pál MB 5x  TMXL 5x ;1960;Kiskőrös;10:59;Férfi
+Csielka Tamás MB 6x  TMXL 7x  OM45 1x ;1982;Debrecen;11:40;Férfi
+Csige Imre;1955;Debrecen;12:07;Férfi
+Csilek András;1979;Miskolc;13:12;Férfi
+Csilik Levente;1997;Miskolc;12:19;Férfi
+Csizmarik Zoltán;1973;Verpelét;13:12;Férfi
+Csongor Balázs;1977;Székesfehérvár;11:58;Férfi
+Csonka Miklós;1959;Bugyi;11:51;Férfi
+Csornai Edina;1985;Nemesvámos;10:43;Nő
+Csurgai Brigitta;1977;;7:29;Nő
+Dabóczy Tamás;1951;Pápa;11:57;Férfi
+Dann Gábor MB 11x ;1979;Budapest;9:22;Férfi
+Darabos zoltán;1968;Tatabánya;12:36;Férfi
+Daróczi Mátyás;1977;Budapest;11:19;Férfi
+David Cornelia Gabriela;1982;;8:24;Nő
+Dávid Tamás TMXL 5x ;1988;Mátrafüred;11:53;Férfi
+Deák Péter;1993;Vezseny;8:16;Férfi
+Dén Edit;1968;Budapest;11:35;Nő
+Deszpoth Hajnalka MB 5x  TMM 8x ;1969;Szurdokpüspöki;10:40;Nő
+Dienes Áron;1977;Szár;9:49;Férfi
+dobi gabriella;1984;sarkad;12:49;Nő
+Dolgos Veronika;1990;Tatabánya;8:39;Nő
+Dombrádi Tamás MB 6x ;1988;Budapest;11:02;Férfi
+Domokos Klarissza MB 6x  TMXL 7x ;1978;Hatvan;11:30;Nő
+Donáth Dávid;1984;Budapest;10:39;Férfi
+Dorner László;1987;Eger;7:55;Férfi
+Dósa Dorottya;1987;Jászszentandrás;12:34;Nő
+Dömötör Zsolt MB 30x ;1969;Kecskemét;10:42;Férfi
+dr. Lannert Ágnes Dóra;1981;Budapest;9:41;Nő
+dr. Bakos Gergő TMM 5x ;1981;Bátonyterenye;8:13;Férfi
+Dr. Barta Zsolt MB 8x ;1983;Gyöngyös;12:11;Férfi
+Dr. Benyovszky Péter MB 10x  TMXL 11x  OM20 1x ;1996;Gyöngyös;10:34;Férfi
+Dr. Beregi László TMM 7x ;1953;Szolnok;11:48;Férfi
+dr. Berta Gabriella TMXL 5x ;1971;Budapest;10:51;Nő
+Dr. Bodócs Ádám MB 15x  TMXL 15x ;1978;Budapest;10:28;Férfi
+Dr. Bodócs Krisztián MB 17x  TMXL 16x ;1975;Budapest;10:27;Férfi
+Dr. Fábián István MB 14x ;1975;Budapest;12:41;Férfi
+dr. Fodor János;1971;Kecskéd;11:07;Férfi
+Dr. Gál Dénes MB 5x ;1973;Szarvas;10:55;Férfi
+Dr. Gyuricza Béla MB 20x  OM45 1x ;1990;Budajenő;7:58;Férfi
+Dr. Hegedűs József;1983;Hódmezővásárhely;12:49;Férfi
+Dr. Hengán Kolos TMXL 7x ;1991;Esztergom;11:27;Férfi
+dr. Juhász Balázs MB 13x  TMXL 8x ;1971;Budapest;6:57;Férfi
+Dr. Juhász István MB 21x  TMXL 25x ;1976;Eger;9:10;Férfi
+Dr. Karaffa Iván;1977;Miskolc;11:26;Férfi
+dr. Katona Eszter;1983;Budapest;12:28;Nő
+dr. Kiss Kitti;1988;Debrecen;12:25;Nő
+dr. Kocsa Tamás MB 7x ;1987;Mátraderecske;12:19;Férfi
+Dr. Kui Péter;1987;Jászfényszaru;9:19;Férfi
+dr. Makra Kata;1976;Budapest;12:18;Nő
+dr. Mike Andrea;1970;;7:51;Nő
+Dr. Nemes Réka;1985;Debrecen;12:53;Nő
+Dr. Paál Emőke;1971;;6:23;Nő
+dr. Pap Tibor MB 13x ;1968;Miskolc;12:54;Férfi
+Dr. Péter Krisztina;1971;Kaposvár;11:58;Férfi
+Dr. Révész Ádám MB 9x ;1972;Székesfehérvár;10:49;Férfi
+Dr. Szabó Péter MB 8x ;1978;Pécs;11:49;Férfi
+Dr. Szabó Sándor;1975;Nyírbátor;9:00;Férfi
+dr. Szőnyi András MB 5x ;1989;Budapest;11:41;Férfi
+Dr. Szűcsné Varga Katalin Éva;1967;Debrecen;12:32;Nő
+dr. Tóth Gergely;1987;Budapest;10:54;Férfi
+dr. Tóvizi Csaba;1973;Budapest;11:33;Férfi
+dr. Való Viktor;1978;Budapest;8:00;Férfi
+Dr. Várnai Gergely;1979;Pécs;10:02;Férfi
+Druskó Zsófia;1966;;7:11;Nő
+Duklesz Mihály;1975;Budapest;8:55;Férfi
+Dull Gergely;1992;Budapest;11:29;Férfi
+Duronelly Péter MB 14x ;1971;Budapest;9:27;Férfi
+Durucz István;1979;Jászberény;7:20;Férfi
+Dütsch Lívia;1968;Budapest;12:42;Nő
+Ecser Gábor MB 21x  TMM 16x ;1973;Cegléd;9:34;Férfi
+Egei Gábor;1996;;12:06;Férfi
+Egri Kiss Tibor;1962;Nyíregyháza;8:30;Férfi
+Eördögh Ákos;1991;Szirmabesenyő;5:58;Férfi
+Eperjesi József;1959;Szeged;11:18;Férfi
+Erdei András;1985;Budapest;8:36;Férfi
+Erdős Imre MB 34x  TMXL 13x ;1962;Hajdúböszörmény;11:06;Férfi
+Erdős Tamás MB 16x ;1989;Hajdúböszörmény;10:34;Férfi
+Erős Gábor;1968;Budapest;12:02;Férfi
+Ertl Norbert;1975;Kőszárhegy;11:37;Férfi
+Esztergomi Imre MB 7x ;1962;Nyíregyháza;10:51;Férfi
+Fábián László MB 7x  TMXL 12x ;1982;Budapest;10:51;Férfi
+Fábri Dénes;1976;Budapest;12:02;Férfi
+Falus György MB 5x ;1976;Budapest Xii. Kerület;9:12;Férfi
+Farkas Csaba;1974;Debrecen;12:12;Férfi
+Farkas Ferenc MB 5x ;1985;Győr;6:50;Férfi
+Farkas Gábor;1984;Budapest;12:34;Férfi
+Farkas László;1978;Dunaújváros;11:03;Férfi
+Farkas Vali MB 31x ;1965;;11:20;Nő
+Fazekas András;1982;;9:21;Férfi
+Fazekas Béla;1981;Füzesabony;10:35;Férfi
+Federics László MB 5x ;1979;Székesfehérvár;11:06;Férfi
+Fejes Csaba;1973;Baja;11:08;Férfi
+Fejes Zoltán;1974;Békéscsaba;10:13;Férfi
+Fekete Dániel;1978;Pilisborosjenő;7:41;Férfi
+Fekete Tibor MB 17x  TMXL 19x ;1981;Hajdúböszörmény;10:57;Férfi
+Feketéné Nagy Tünde MB 6x  TMXL 6x ;1966;Debrecen;9:51;Nő
+Ferenci László MB 14x  TMXL 11x ;1956;Budapest;10:43;Férfi
+Ferenczi-Kiss Dániel MB 9x ;1974;Budapest;12:14;Férfi
+Feuerstahler Éva;1984;Nőtincs;11:39;Nő
+Fignár László;1975;Dunakeszi;10:32;Férfi
+Fileman Zoltán;1974;Nyíradony;9:52;Férfi
+Fodor Ádám MB 14x  TMXL 14x ;1977;Remeteszőlős;7:38;Férfi
+Fodor Bálint;1982;Budapest;12:24;Férfi
+Fodor Klára MB 15x ;1978;Remeteszőlős;9:28;Nő
+Fodor Szabolcs;1988;Rákóczifalva;12:22;Férfi
+Földesi Oszkár;1978;Tinnye;12:12;Férfi
+Földváry Péter;1980;Tiszafüred;10:14;Férfi
+Fövenyi Pál;1980;Budapest;12:19;Férfi
+Frank Tibor TMXL 7x ;1949;Budapest;7:42;Férfi
+Frei János MB 17x ;1971;Bátonyterenye;11:40;Férfi
+Fritz Péter MB 13x ;1972;Szőlősgyörök;12:25;Férfi
+Fritzné Bellosevich Emese MB 6x ;1974;Szőlősgyörök;12:26;Nő
+Füleki Balázs MB 13x  TMXL 13x ;1980;Gyöngyössolymos;7:28;Férfi
+Fülkorn Andrea TMXL 5x ;1963;Nagykovácsi;9:27;Nő
+Fürész Andrea MB 5x ;1977;Budapest;11:57;Nő
+Fürjes Csaba MB 5x ;1974;Budapest;11:16;Férfi
+Gábor Ágnes MB 5x ;1976;Cegléd;12:00;Nő
+Gál Péter;1993;Eger;11:17;Férfi
+Gál Tamás Zoltán;1984;Budapest;11:16;Férfi
+Galanics Mariann;1977;;9:02;Nő
+Galcsik Tamás MB 10x  TMXL 10x ;1978;VARSÁNY;7:20;Férfi
+Gallé Henrik;1975;Budapest;11:37;Férfi
+Gallyas Gabriella;1969;Budapest;12:27;Nő
+Garamszegi Zsolt;1986;Biatorbágy;10:54;Férfi
+Garda Árpád Endre;1962;Debrecen;12:38;Férfi
+Garda Tamás;1987;Debrecen;12:38;Férfi
+Gáspár Attila MB 23x  TMM 5x ;1978;Salgótarján;12:20;Férfi
+Gáti Attila;1976;Miskolc;14:52;Férfi
+Gazdag Gábor;1975;Budapest;11:15;Férfi
+Gazdag István HK 5x  TMXL 6x ;1973;Nagykáta;10:28;Férfi
+Géczi Judit MB 7x ;1981;Budapest;9:26;Nő
+Gedei Dóra HK 7x  TML 6x ;1977;Vámosgyörk;10:51;Nő
+Gellén László MB 13x  OM45 1x ;1977;Debrecen;8:53;Férfi
+Gere Zoltán;1968;Gyöngyös;6:58;Férfi
+Gerecs Ildikó MB 5x ;1988;Szombathely;12:52;Nő
+Gergely Máté;1983;Budapest;11:00;Férfi
+Gerőcs Zoltán;1997;Jászberény;12:51;Férfi
+Giczi Dávid;1978;Budapest;11:58;Férfi
+Giesz Balázs;1976;Veszprém;11:49;Férfi
+Gigor Béla;1954;Heves;10:29;Férfi
+Gillemot Katalin;1984;Budapest;10:30;Nő
+Gócza Tibor MB 10x  TMXL 6x ;1967;Erk;9:23;Férfi
+Gólya István;1969;Budapest;7:54;Férfi
+Gombos Kálmán;1969;Szombathely;12:10;Férfi
+Gonda Krisztina;1988;Gyöngyössolymos;12:05;Nő
+Gordos Gergely;1977;Budapest;11:55;Férfi
+Göncfalvi Zoltán;1992;Gyöngyös;10:52;Férfi
+Gránicz János MB 25x ;1956;Dunakeszi;10:41;Férfi
+Gregus Gábor;1971;Baja;13:29;Férfi
+Grimm Mónika;1969;Leányvár;9:48;Nő
+Grozdics György;1967;Budapest;11:45;Férfi
+Gulyás Roland;1988;Budapest;7:43;Férfi
+Gulyás Zsolt;1977;Budapest;11:38;Férfi
+Gurin Péter MB 22x ;1971;Veszprém;10:37;Férfi
+Gutti Gabriella MB 8x ;1972;Budapest;11:38;Nő
+Gyalog Márta;1973;Budapest;8:51;Nő
+Gyebnár Éva;1979;;8:02;Nő
+Gyulai Péter MB 5x  TMXL 8x ;1971;Balatonfűzfő;9:41;Férfi
+Gyurász Gábor MB 8x ;1981;Budapest;8:02;Férfi
+Gyurkó Péter;1974;Pilisjászfalu;5:51;Férfi
+Gyurkovics Dezső TMXL 6x ;1973;Budapest;10:54;Férfi
+Hajdú Zoltán;1978;Isaszeg;11:00;Férfi
+Hajduk Dávid MB 5x ;1988;Pécs;8:56;Férfi
+Hajduska Balázs;1975;Nagykovácsi;5:52;Férfi
+Hajnal Péter;1985;Tiszapüspöki;11:57;Férfi
+Hajnal Sándor TMXL 9x ;1968;Szentmártonkáta;9:47;Férfi
+Halabuk Ferenc Csanád;1991;Budapest;12:31;Férfi
+Halama Levente;1982;Pécel;7:36;Férfi
+Halász Attila MB 14x ;1975;Debrecen;11:04;Férfi
+Haller Mihály HK 8x  MB 13x ;1958;Röszke;10:55;Férfi
+Halmos László;1978;Budapest;9:55;Férfi
+Hamar Bálint Dániel;1990;Zalaegerszeg;11:31;Férfi
+Hamar Éva;1986;Budaörs;9:37;Nő
+Hamecz István;1967;Budapest;13:00;Férfi
+Hámori Zsolt HK 9x  MB 24x ;1966;Miskolc;11:46;Férfi
+Hámory András;1963;Vác;7:17;Férfi
+Handbauer Máté;1990;Pécs;11:16;Férfi
+Hangácsi Heléna TMXL 7x ;1975;Tiszaújváros;11:59;Nő
+Hanzel Róbert;1977;Debrecen;12:25;Férfi
+Harangozó Ferenc MB 12x  TMM 18x ;1987;Heréd;8:25;Férfi
+Harsányi Levente;1996;Kistokaj;12:19;Férfi
+Harsányi Péter MB 15x  TMXL 11x ;1966;Gyöngyös;8:39;Férfi
+Hársy István;1965;Gyöngyös;12:06;Férfi
+Havran Zsolt;1984;Budapest;12:11;Férfi
+Hegedűs Ákos MB 15x  TMXL 16x ;1977;Kisszállás;6:50;Férfi
+Hegedűs András HK 5x ;1980;Cegléd;11:06;Férfi
+Hegedűs János;1973;Budapest;7:24;Férfi
+Hegedűs József;1959;Telekgerendás;13:05;Férfi
+Hegedűs Laura MB 5x  TMM 9x  TML 6x ;1957;Jászberény;11:41;Nő
+Hegedűs Szabolcs HK 12x  MB 20x  TMXL 26x ;1976;Markaz;11:41;Férfi
+Herbst Orsolya;1969;Jobbágyi;11:15;Nő
+Hevér Balázs;1981;;12:08;Férfi
+Hevér Gábor MB 25x  TMXL 12x ;1982;Budapest;10:58;Férfi
+Hidvégi Zsolt MB 9x ;1978;Kerekegyháza;11:36;Férfi
+Hives Zsolt;1984;Karancsalja;12:10;Férfi
+hollo peter;1980;Budapest;12:07;Férfi
+Hollósi Dániel;1988;Budapest;10:50;Férfi
+Hollósi Zoltán TMXL 5x ;1986;Budapest;10:33;Férfi
+Holnampf Gusztáv;1976;Budapest;12:01;Férfi
+Horváth András MB 12x ;1974;Iszkaszentgyörgy;11:47;Férfi
+Horváth Attila Vilmos;1982;Budapest;6:49;Férfi
+Horváth Bálint;1981;Rum;7:54;Férfi
+Horváth Hubert MB 22x  TMXL 21x ;1978;Hatvan;12:00;Férfi
+Horváth Kristóf;1997;Budakeszi;10:49;Férfi
+Horváth Péter;1968;Körmend;8:24;Férfi
+Horváth Péter;1984;Szeged;12:21;Férfi
+Horváth Róbert;1979;Busdapest;12:31;Férfi
+Horváth Roland MB 6x  TMXL 5x ;1979;Mátrafüred;10:47;Férfi
+Horváth Szabolcs;1980;Budapest;12:02;Férfi
+Horváth Tamás;1978;Győr;12:21;Férfi
+Horváth Tibor;1971;Budapest;10:36;Férfi
+Horváth Zoltán;1973;Nyíregyháza;11:11;Férfi
+Horváth Zoltán MB 7x  TMXL 7x ;1961;Budapest;12:13;Férfi
+Hörömpöli Róbert;1973;Budapest;10:16;Férfi
+Huber Kristóf;1986;Pilisvörösvár;12:47;Férfi
+Huber Tamás OM45 1x ;1976;Kaposvár;12:36;Férfi
+Hubik Dániel MB 8x ;1980;Budapest;12:24;Férfi
+id. Kosik Tibor HK 10x ;1954;Szurdokpüspöki;10:21;Férfi
+Ifj. Kozma Ferenc;1998;Debrecen;12:00;Férfi
+ifj. Major Zoltán MB 5x ;1990;Szolnok;8:26;Férfi
+Illés Balázs;1985;Debrecen;10:47;Férfi
+Illés Péter MB 5x ;1983;Debrecen;10:44;Férfi
+Ilovai Sarolta;1972;Budapest;11:22;Nő
+Ispán Péter;1999;Telki;12:24;Férfi
+Ispán Péter;1972;Telki;12:37;Férfi
+Itu Alexandru-Mihail;1982;;5:29;Férfi
+Itu Rose-Marie;1982;;8:24;Nő
+Iván László;1982;Debrecen;12:08;Férfi
+Ivaskó György TMXL 6x ;1981;Gödöllő;7:51;Férfi
+Jáger Zoltán;1964;Berhida;13:25;Férfi
+Jakab Tamás;1983;Szolnok;13:30;Férfi
+Jakus Béla MB 7x ;1971;Vác;6:07;Férfi
+Jámbor László;1965;Gyöngyös;7:55;Férfi
+Jani Gábor;1957;Budapest;9:41;Férfi
+Jani Lázár;1990;Budapest;9:40;Férfi
+Jánosa Gábor MB 19x ;1963;Szombathely;11:43;Férfi
+Jánosi Zoltán MB 6x ;1971;Budapest;7:40;Férfi
+Janovicz Csaba;1976;Pétervására;9:07;Férfi
+Jekler Z. Gábor;1967;Kistarcsa;12:03;Férfi
+Jónás Gábor;1968;Budapest;10:54;Férfi
+Jónás Richárd;1976;Budapest;9:32;Férfi
+Joó Balázs MB 6x ;1990;Pomáz;11:21;Férfi
+Joó Zoltán;1967;;7:46;Férfi
+Juhász Gábor MB 14x ;1956;Budapest;11:20;Férfi
+Juhász István MB 14x  TMXL 9x ;1957;Gyöngyös;10:41;Férfi
+Juhász Melinda;1982;Kaposvár;12:12;Nő
+Juhász Tamás MB 8x  TMXL 8x ;1958;Gyöngyös;10:06;Férfi
+Juhász Zsolt MB 7x  TMXL 8x ;1975;Somoskőújfalu;11:22;Férfi
+Juhász Zsuzsanna HK 5x  TMXL 5x ;1982;Nagykáta;11:34;Nő
+Kádár-Csoboth Péter;1970;;7:06;Férfi
+Kadlót András;1978;Maglód;12:50;Férfi
+Kaim Szilveszter MB 7x  TMXL 7x  OM45 1x ;1975;Sülysáp, Tápiósüly;11:41;Férfi
+Kajtor Péter;1976;Budapest;11:50;Férfi
+Kalangya Attila;1983;Pécs;12:20;Férfi
+Kállai Sándor MB 16x ;1962;Mezőtúr;11:12;Férfi
+Kalmár Károly;1971;Esztergom;9:51;Férfi
+Kalotai Levente MB 6x  TMXL 8x ;1972;Miskolc;6:19;Férfi
+Káman Gyöngyi MB 5x ;1969;Telki;10:56;Nő
+Kánási Tamás MB 9x  TMXL 9x ;1972;Budapest;6:10;Férfi
+Kántor Zsoltné TMXL 5x ;1968;Tiszaújváros;12:59;Nő
+Kapdos Ferenc MB 5x ;1973;Levelek;12:39;Férfi
+Kardos András MB 6x ;1970;Szeged;9:30;Férfi
+Karlowits-Juhász Tamás MB 8x  TMXL 14x ;1980;Miskolc;5:28;Férfi
+Károlyi Ildikó;1973;Budapest;12:22;Nő
+Károlyi János MB 14x  TMXL 18x ;1971;Budapest;11:55;Férfi
+Károlyi Tamás;1967;Debrecen;12:35;Férfi
+Karsai András;1978;Pécel;12:56;Férfi
+Kása Sándor;1968;Debrecen;12:34;Férfi
+Katona Erika;1972;Debrecen;12:33;Nő
+Katona Péter;1964;Veszprém;13:25;Férfi
+Kecskés Márton;1989;Tata;10:32;Férfi
+Kelemen László MB 15x  TMXL 14x ;1970;Salgótarján;11:51;Férfi
+Kelemen Márton;1987;Budapest;10:11;Férfi
+Kelemen Tibor;1973;Hajdúböszörmény;12:06;Férfi
+Kenderesi Katalin;1974;Budapest;12:50;Nő
+Kerekes Balázs;1978;Komló;12:59;Férfi
+Kerekes Csaba;1974;Budapest;11:41;Férfi
+Kerékgyártó Péter MB 7x  TMXL 6x ;1985;Eger;7:35;Férfi
+Keresztes Róbert MB 12x  TMXL 15x ;1978;Kismaros;8:51;Férfi
+Keresztesi Koppány MB 30x  TMXL 12x ;1974;Gyöngyös;9:25;Férfi
+Keresztúri András MB 6x ;1990;Budapest;11:28;Férfi
+Kerti Balázs MB 16x ;1986;Székesfehérvár;11:28;Férfi
+Keszei Szilárd;1975;Budapest;12:34;Férfi
+Kézdy Gábor MB 7x ;1964;Budapest;12:19;Férfi
+Kézsmárki Ágnes;1981;Budapest;8:58;Nő
+Kimmel Péter MB 14x  TMXL 7x ;1978;Pilisvörösvár;10:56;Férfi
+Kincses Bálint MB 10x ;1983;budapest;10:57;Férfi
+Kis Gábor;1980;Győr;12:21;Férfi
+Kis László MB 27x ;1967;Budapest;12:06;Férfi
+Kiss Attila MB 5x  TMXL 7x ;1997;Gyöngyös;10:31;Férfi
+Kiss Bernát;1990;Tab;8:57;Férfi
+Kiss Csaba MB 5x ;1987;Dombóvár;9:44;Férfi
+Kiss Csaba TMXL 5x ;1968;Budapest;11:21;Férfi
+Kiss István MB 13x  TMXL 8x ;1979;Budapest;7:35;Férfi
+Kiss János József TMXL 5x ;1963;Budapest;11:27;Férfi
+Kiss Péter;1983;Budapest;12:26;Férfi
+Kiss Péter;1975;Pétervására;13:25;Férfi
+Kiss Tamás;1987;Martonvásár;11:25;Férfi
+Kiss Zsuzsanna;1973;Budapest;12:07;Nő
+Klimó Melinda;1985;Budapest;12:49;Nő
+Kollár Brigitta;1981;Recsk;13:00;Nő
+Kollát Dénes Pál;1977;Budapest;8:52;Férfi
+Koltai Dániel;1979;;7:19;Férfi
+Koncsek Gergő;1986;Budapest;11:35;Férfi
+Kondorosi Péter;1981;Budapest Xi.;12:45;Férfi
+Kontos Gábor MB 15x  TMM 5x  TMXL 9x ;1975;Abasár;11:01;Férfi
+Kónya Gábor;1989;Nyíregyháza;12:11;Férfi
+Koós Ádám;1974;Vác;13:00;Férfi
+Koós Krisztián;1973;Budapest;7:40;Férfi
+Koren Péter;1981;Mezőnyárád;11:42;Férfi
+Kormos Krisztián;1975;Eger;12:05;Férfi
+Korponay László;1985;Budapest;9:53;Férfi
+Kosik Tiborné HK 5x  TMM 5x ;1964;Szurdokpüspöki;10:40;Nő
+Kosztolányi Zsolt MB 10x  TMXL 16x ;1974;Dabas;8:46;Férfi
+Kosztra Balázs TMXL 5x ;1976;Budapest;9:34;Férfi
+Kotroczó Gedeon;1951;?rd;11:39;Férfi
+Kovács Ádám;1970;;5:11;Férfi
+Kovács Árpád;1966;Budapest;9:41;Férfi
+Kovács Gábor MB 17x ;1976;Orosháza;12:29;Férfi
+Kovács György;1977;Bicske;8:27;Férfi
+Kovács György MB 23x  TMXL 24x ;1971;Nyíregyháza;10:51;Férfi
+Kovács József MB 5x ;1960;Zsámbék;12:48;Férfi
+Kovács Krisztián István;1975;Tatabánya;11:04;Férfi
+Kovács László;1990;Gyöngyössolymos;9:57;Férfi
+Kovács László;1971;Salgótarján;12:51;Férfi
+Kovács Tamás;1978;Nógrád;11:36;Férfi
+Kovács Zoltán;1976;Szigetszentmiklós;12:05;Férfi
+Kovács Zsolt;1970;;5:53;Férfi
+Kovács Zsolt;1972;Budapest;11:31;Férfi
+Kozák Attila;1979;Miskolc;12:27;Férfi
+Kozma Ferenc MB 10x  TMXL 10x ;1968;Debrecen;7:42;Férfi
+Kozma Zoltán;1975;Gyöngyös;12:13;Férfi
+Kőhegyi Gábor MB 8x ;1976;Budapest;11:39;Férfi
+Kőrös Annamária;1975;Budapest;11:53;Nő
+Kőrös Gábor;1975;Budapest;11:53;Férfi
+Kőváry Péter MB 8x ;1976;Budapest;10:19;Férfi
+Kövecs Ferenc MB 6x ;1972;Pécs;9:22;Férfi
+Králik Zsolt MB 8x  TMXL 5x ;1991;Bátonyterenye;10:31;Férfi
+Krascsenics Roland MB 5x  TMXL 6x ;1974;Budapest;10:32;Férfi
+Krekó Károly TMXL 5x ;1986;Kartal;12:04;Férfi
+Krizsma Gábor;1982;Budapest;12:24;Férfi
+Kubatov Klára;1973;Pécs;11:17;Nő
+Kucsera János HK 6x ;1971;Budapest;12:43;Férfi
+Kucsera Sándor;1957;Velence;10:52;Férfi
+Kudla László MB 10x  TMXL 15x ;1955;Budapest;10:25;Férfi
+Kui László TMM 17x ;1989;Atkár;11:53;Férfi
+Kummer Bálint;1979;Vác;7:51;Férfi
+Kun Zsuzsa;1997;Tiszaújváros;12:29;Nő
+Kupsza András;1978;;8:50;Férfi
+Kurucz András;1980;Budapest;6:39;Férfi
+Kurucz Klára MB 13x  TMXL 6x ;1961;Budapest;11:12;Nő
+Kurunczi Nándor MB 12x  TMXL 11x  OM45 1x ;1965;Szarvasgede;6:55;Férfi
+Kuti Balazs;1980;;8:01;Férfi
+Kuti Zsolt MB 5x ;1979;Budapest;12:44;Férfi
+Küllős Máté MB 14x  TMXL 20x ;1974;Göd;12:42;Férfi
+Laczkó István;1976;Rétság;9:58;Férfi
+Laczkó Norbert TMXL 6x ;1979;Miskolc;12:11;Férfi
+Lajkó Zsolt MB 13x  TMXL 5x ;1977;Jászberény;10:29;Férfi
+Lajos Zoltán MB 5x ;1967;Tahitótfalu;11:14;Férfi
+Lakatos Zoltán;1974;Szeged;12:49;Férfi
+Láng István MB 5x ;1974;Esztergom;11:26;Férfi
+Lantos László;1979;Budapest;12:01;Férfi
+Lányi János TML 5x ;1966;Budapest;12:02;Férfi
+László Dénes MB 7x ;1972;Budapest;11:16;Férfi
+László Szilvia MB 9x ;1966;Tatabánya;7:39;Nő
+Lazányi Dániel;1979;Orosháza;11:46;Férfi
+Lázár Katalin;1980;Ecsed;12:00;Nő
+Lehoczki Csaba MB 5x ;1984;Dombegyház;7:59;Férfi
+Lencsés Péter MB 6x  TMXL 10x ;1978;Kecskemét;12:12;Férfi
+Léner Violetta MB 5x ;1980;Budapest;11:25;Nő
+Lengyel Ádám;1981;Szeged;11:14;Férfi
+Leskovics Andi;1968;Budapest;8:58;Nő
+Lévai Éva MB 11x  TMXL 5x ;1961;Hajdúböszörmény;11:12;Nő
+Lévai Viktor MB 21x  TMXL 18x ;1978;Budapest;9:04;Férfi
+Lipcsei Sándor MB 6x ;1962;Budapest;11:18;Férfi
+Loós Tamás TMXL 6x ;1970;Debrecen;11:52;Férfi
+Lovas Gergely TMXL 6x ;1987;Budapest;6:57;Férfi
+Lovas László MB 8x ;1976;Szolnok;10:51;Férfi
+Lovas Mátyás;1970;;8:15;Férfi
+Löki János;1985;Bocskaikert;12:55;Férfi
+Lökös Ágnes;1997;;12:35;Férfi
+Lővei László;1982;Budapest;10:08;Férfi
+Lővey Balázs MB 5x ;1981;Debrecen;11:43;Férfi
+Lukács Tünde MB 12x ;1977;Karancslapujtő;9:22;Nő
+Lukácsy József TMXL 5x ;1959;Budapest;12:30;Férfi
+Madaras János;1968;Pétervására;13:10;Férfi
+Madaras Márió;1993;Pétervására;13:19;Férfi
+Magyar Balázs MB 5x ;1986;Budapest;10:24;Férfi
+Magyar Szabolcs MB 9x ;1974;Lakitelek;9:43;Férfi
+Magyar Tamás HK 7x  MB 9x  TMM 7x ;1954;Budapest;10:09;Férfi
+Magyar Tamás MB 7x  TMXL 10x ;1980;Budapest;9:38;Férfi
+Mák József;1992;Kiskunfélegyháza;11:16;Férfi
+Maksó Róbert MB 10x ;1983;Pásztó;8:00;Férfi
+Maku László MB 34x  TMXL 9x ;1972;Ecséd;8:11;Férfi
+Mali László;1973;Pilisszántó;12:28;Férfi
+Mancher István TMXL 10x  OM30 1x ;1984;Budapest;12:20;Férfi
+Marik Dániel MB 13x ;1972;Budapest;12:26;Férfi
+Marius Vasilache;1970;;5:47;Férfi
+Markó András;1975;Vác;10:21;Férfi
+Markovics Lajos;1960;Márianosztra;11:44;Férfi
+Martinák Anikó;1973;Budapest;8:57;Nő
+Márton Dániel MB 7x  TMXL 11x ;1987;Budapest;7:17;Férfi
+Máté Endre;1972;Szolnok;11:48;Férfi
+Matesz Tamás MB 17x ;1971;Manchester;12:36;Férfi
+Mátyás István;1984;Budapest;12:37;Férfi
+Meczenzof Ferenc MB 21x  TMXL 20x ;1956;Gyöngyös;9:13;Férfi
+Medgyessy Gergely MB 5x ;1970;Budapest;6:29;Férfi
+Medve Gábor;1977;Budapest;10:00;Férfi
+Megyery György MB 18x  TMXL 13x ;1972;Pilisvörösvár;12:51;Férfi
+Melicher Zsolt;1967;Márianosztra;12:06;Férfi
+Mentő Attila MB 13x ;1970;Budapest;9:40;Férfi
+Mészáros György MB 10x  TMXL 10x ;1960;Budapest;11:42;Férfi
+Mészáros Tamás MB 8x  TMXL 10x ;1967;Balassagyarmat;9:27;Férfi
+Mészáros Zoltán;1978;Szigetszentmiklós;8:27;Férfi
+Mezei László MB 8x ;1954;Kartal;11:38;Férfi
+Mezeiné Dobó Klára;1965;Kartal;11:38;Nő
+Mihai Godeanu;1970;;7:05;Férfi
+Mikes Gergő;1988;Békéscsaba;10:16;Férfi
+Mikuska Ádám;1972;Budapest;11:19;Férfi
+Mogyorósi Zoltán;1976;Budapest;12:30;Férfi
+Molnár Benedek;1990;Budapest;12:31;Férfi
+Molnár Ernő MB 6x ;1978;Mezőtúr;10:51;Férfi
+Molnár Gábor MB 6x  TMXL 7x ;1974;Somoskőújfalu;11:22;Férfi
+Molnár Imre;1954;Budapest;12:20;Férfi
+Molnár István Péter MB 11x  TMXL 9x ;1975;Hatvan;7:32;Férfi
+Molnár János MB 9x  TMXL 7x ;1978;Martonvásár;11:19;Férfi
+Molnár Lajos;1969;Ősi;13:26;Férfi
+Molnár Lajos HK 5x  MB 6x  OM20 1x ;1983;Jászárokszállás;11:43;Férfi
+Molnár László;1986;Gyömrő;11:42;Férfi
+Molnár Szabolcs dr.;1982;Debrecen;11:42;Férfi
+Molnár Valéria;1992;Nyíregyháza;12:53;Nő
+Molnár Zoltán TMXL 6x ;1985;Bátonyterenye;12:22;Férfi
+Molnár Zsolt TML 5x ;1986;Rózsaszentmárton;9:43;Férfi
+Molnárka György MB 14x ;1973;Budapest;12:47;Férfi
+Monoki Tamás MB 5x ;1972;Dunakeszi;11:59;Férfi
+Mucsi Sándor;1967;Szeged;9:47;Férfi
+Mudris Zoltán MB 11x  TMXL 8x ;1976;Jászárokszállás;9:48;Férfi
+Muhel Csaba;1976;Nadap;11:54;Férfi
+Müller József;1975;Debrecen;11:19;Férfi
+Nagy Adrián MB 6x  TMXL 11x ;1981;Budapest XIV.;7:42;Férfi
+Nagy Ákos;1972;Budapest;11:41;Férfi
+Nagy Attila MB 14x  TMXL 16x ;1972;Fót;11:18;Férfi
+Nagy Csaba MB 7x  TMXL 8x ;1984;Szeged;10:25;Férfi
+Nagy Dávid MB 13x ;1991;Érd;12:12;Férfi
+Nagy Dénes;1986;Gelej;11:33;Férfi
+Nagy Ferenc MB 9x  TMXL 14x ;1975;Budapest;7:13;Férfi
+Nagy Gábor;1985;;10:35;Férfi
+Nagy Imre MB 11x  TMXL 10x ;1982;Jászdózsa;11:08;Férfi
+Nagy István;1976;Budapest;10:38;Férfi
+Nagy István MB 12x ;1977;Recsk;9:20;Férfi
+Nagy Lajos MB 12x  TMXL 13x ;1966;Tiszaújváros;11:59;Férfi
+Nagy László;1975;Pásztó;7:28;Férfi
+Nagy László;1970;;8:57;Férfi
+Nagy Mária;1979;Miskolc;11:03;Nő
+Nagy Norbert MB 9x  TMXL 8x ;1975;Budapest;11:03;Férfi
+Nagy Orsolya MB 6x ;1981;Budaörs;12:25;Nő
+Nagy Zoltán;1975;Budapest;7:02;Férfi
+Nagy Zoltán;1968;Kaposvár;10:49;Férfi
+Nagy Zoltán;1979;Szeged;11:22;Férfi
+Nagy Zoltán MB 35x  TMXL 25x ;1956;Budapest;12:12;Férfi
+Nagy Zoltán MB 7x ;1970;Budapest;11:40;Férfi
+Nagy Zoltánné MB 25x  TMXL 24x ;1962;Budapest;12:12;Nő
+Nagy-György Sándor;1983;Biatorbágy;12:52;Férfi
+Nagyváthy János MB 14x ;1964;Budakeszi;6:31;Férfi
+Nándorfi Géza MB 14x  TMXL 11x ;1964;Hatvan;11:57;Férfi
+Nehlich Krisztina;1980;Budapest;11:50;Nő
+Német Sándor TMM 17x ;1967;Cegléd;9:41;Férfi
+Németh Ádám;1985;;6:12;Férfi
+Németh Emese TMXL 6x ;1969;Budapest;9:39;Nő
+Németh Györgyi;1975;Göd;12:33;Nő
+Németh Imre MB 8x  TMXL 11x ;1968;Budapest;10:35;Férfi
+Németh István;1967;Bakonyszentlászló;7:59;Férfi
+Németh Kristóf;1976;Szada;8:52;Férfi
+Németi Csaba MB 8x  TMXL 10x ;1982;Debrecen;6:35;Férfi
+Németi Gergely;1976;Budapest;7:28;Férfi
+Németné Dina Enikő;1970;Cegléd;9:34;Nő
+Nosza Gábor MB 31x  TMXL 18x ;1967;Ecséd;6:24;Férfi
+Notheisz János MB 5x ;1977;Jászberény;11:42;Férfi
+Nothnagel Zoltán MB 5x  TMXL 7x ;1982;Sopron;12:22;Férfi
+Novák Edit;1974;Bekescsaba;10:49;Nő
+Nun Levente;1981;Budapest;11:51;Férfi
+Nyakas Gábor MB 6x ;1974;Székesfehérvár;6:20;Férfi
+Nyári József MB 27x  TMXL 12x ;1972;Szabadbattyán;10:12;Férfi
+Nyári Sándor MB 13x  TMXL 13x  OM35 1x ;1974;Domaszék;9:52;Férfi
+Nyúl László MB 5x  OM45 1x ;1975;Budapest;7:18;Férfi
+Oláh György;1964;Tiszapalkonya;8:34;Férfi
+Olcsák József;1978;Budapest;6:30;Férfi
+Orbán József MB 6x ;1964;Budapest;12:42;Férfi
+Orha László;1984;Budapest;11:32;Férfi
+Orleanu Michael;1966;;5:53;Férfi
+Orosi László MB 10x ;1978;Gyömrő;9:06;Férfi
+Országh Tamás MB 18x ;1976;Budapest;12:32;Férfi
+Ortó Nikolett;1980;Gyöngyös;12:05;Nő
+Őrsi Bálint MB 16x  TMXL 13x ;1987;Eger;7:39;Férfi
+Őze Erzsébet;1969;Szeged;10:31;Nő
+Pajor Gergely MB 5x ;1982;Budapest;10:00;Férfi
+Pajtók István MB 9x  TMXL 12x ;1976;Rózsaszentmárton;11:56;Férfi
+Pál Balázs MB 18x ;1975;Debrecen;10:52;Férfi
+Pál József;1968;Debrecen;12:45;Férfi
+Palai Patrik MB 5x  TML 5x ;1976;Remeteszőlős;9:29;Férfi
+Palásti Sándor;1972;Budapest;11:34;Férfi
+Páldi Márk;1976;;8:25;Férfi
+Pálinkás Ferenc;1974;Vác;6:56;Férfi
+Páll Attila;1971;Veszprém;6:48;Férfi
+Pallag István;1959;Debrecen;9:22;Férfi
+Pálos Zsófia Edit;1979;Eger;6:27;Nő
+Pánczél László;1974;Budapest;11:34;Férfi
+Pántya Róbert;1979;Szigetszentmiklós;8:50;Férfi
+Pap Áron MB 7x ;1996;Budapest;12:18;Férfi
+Pápayné Sár Cecília;1964;Pécs;7:28;Nő
+Papp Gergely;1983;;6:31;Férfi
+Papp Gyula MB 17x  TMXL 18x ;1965;Perkupa;11:42;Férfi
+Papp Pál MB 12x  TMXL 9x ;1977;Budapest;11:38;Férfi
+Papp Tünde;1984;Budapest;10:06;Nő
+Papp Zoltán;1986;Szolnok;8:42;Férfi
+Parai Tibor MB 26x  TMXL 10x ;1949;Budapest;11:00;Férfi
+Pásztor Dániel MB 5x ;1983;Budapest;9:43;Férfi
+Patakfalvi Tamás MB 11x ;1982;Salgótarján;8:35;Férfi
+Pataki Attila;1979;Kecskemét;10:05;Férfi
+Pataki Attila;1976;Szolnok;10:52;Férfi
+Pécsi Péter;1974;;8:21;Férfi
+Pék Ádám MB 9x  TMXL 6x ;1972;Budapest;10:27;Férfi
+Péli Árpád;1972;Budapest;10:47;Férfi
+Péntek Dániel;1991;Budakeszi;13:22;Férfi
+Péntek Tamás;1996;Budakeszi;12:41;Férfi
+Pépp Csaba MB 7x ;1979;Budapest;8:00;Férfi
+Péterfalvi Ferenc MB 14x  TMXL 5x ;1984;Bogád;8:34;Férfi
+Pető László;1972;Budapest;12:41;Férfi
+Petresevics Róbert;1969;;8:15;Férfi
+Petri János;1983;Budapest;6:53;Férfi
+Petrik Gábor;1971;Kecskemét;11:52;Férfi
+Petrovics Nándor MB 12x  TMXL 11x ;1956;Budapest;11:44;Férfi
+Pintér Norbert MB 6x  TMXL 5x ;1970;Jobbágyi;7:46;Férfi
+Pintér Zoltán;1970;Debrecen;11:59;Férfi
+Pintyák Ildikó MU 7x ;1971;Ebes;12:34;Nő
+Plavecz Andrea;1978;Békéscsaba;10:13;Nő
+Pócsik Anna HK 8x  TMM 6x ;1978;Budapest;12:37;Nő
+Polónyi István;1968;Velence;10:46;Férfi
+Pólya Sándor MB 5x ;1973;Nagynyárád;9:49;Férfi
+Poór Sándor;1980;Budapest;11:29;Férfi
+Pór Gábor;1966;Balatonboglár;12:26;Férfi
+Posztobányi Péter;1966;Gödöllő;9:43;Férfi
+Pótó Zsuzsanna;1982;Pécs;12:17;Nő
+Pozderka László;1979;Budapest;12:05;Férfi
+Pötör Zoltán;1962;Nagyvenyim;8:58;Férfi
+Prisztóka Zsolt MB 16x  TMXL 10x ;1975;Hort;9:55;Férfi
+Pruzsinszki Zoltán;1980;Budapest;10:28;Férfi
+Pusztai Katalin;1982;Budapest;12:31;Nő
+Rába Imre;1983;Ikervár;6:56;Férfi
+Rabi Miklós;1975;;8:17;Férfi
+Rácz Dávid MB 15x  TMXL 16x ;1974;Kistarcsa;12:34;Férfi
+Rácz Róbert TMXL 7x ;1972;Sajóörös;8:34;Férfi
+Rácz Tibor;1972;;7:51;Férfi
+Radnai Dániel;1986;Veszprém;9:25;Férfi
+Radnai Gergő;1982;Veszprém;9:26;Férfi
+Raics Gyula;1986;Debrecen;11:02;Férfi
+Rákosy Gergely;1975;Budapest;10:03;Férfi
+Rati Orsolya MB 6x ;1977;Budapest;11:53;Nő
+Ratter Réka MB 7x  TMXL 9x ;1974;Eger;10:17;Nő
+Réde Zsolt HK 9x  TMXL 11x ;1962;Szurdokpüspöki;9:14;Férfi
+Rehó Bálint;1992;Nyírbogdány;11:46;Férfi
+Reicher Norbert MB 10x ;1976;Budapest;7:13;Férfi
+Répás Roland MB 15x ;1978;Mátraballa;11:45;Férfi
+Révai László;1977;Pécs;10:02;Férfi
+Rezsuta Ibolya MB 34x ;1964;Budapest;8:37;Nő
+Rigó István MB 19x  TMXL 7x ;1980;Mezőkövesd;10:47;Férfi
+Rigó Máté;1985;Gyula;12:52;Férfi
+Rimár János MB 6x  TMXL 5x ;1966;Kiskőrös;10:27;Férfi
+Rimóczy István MB 20x ;1971;Nyíregyháza;12:36;Férfi
+Ring Tamás MB 5x ;1979;Zirc;11:41;Férfi
+Ritoók Zsigmond;1966;Budapest;12:08;Férfi
+Romhányi László;1970;Budapest;12:01;Férfi
+Rovó András MB 10x ;1957;Budapest;12:15;Férfi
+Rózsavölgyi Eszter MB 6x ;1988;Sásd;10:51;Nő
+Rudolf István;1971;Gyenesdiás;9:49;Férfi
+Ruttkay Diána MB 12x  TMXL 5x ;1976;Kistarcsa;12:03;Nő
+Salakta Péter;1969;Budapest;12:49;Férfi
+Sályi Ferenc MB 10x  TMXL 6x ;1968;Karácsond;11:17;Férfi
+Samu Piroska MB 23x ;1958;Dunakeszi;11:38;Nő
+Sandoly Szabolcs;1977;Hatvan;12:05;Férfi
+Sándor Boldizsár Péter;1970;Vác;11:23;Férfi
+Sándor Kornél;1968;Vác;12:18;Férfi
+Sándor Márk TMXL 5x ;1981;Budapest;10:46;Férfi
+Sándor Péter;1987;Pásztó;12:07;Férfi
+Sándorné Szentkúti Anita;1977;Jobbágyi;10:16;Nő
+Sára Péter MB 7x ;1995;Tura;8:15;Férfi
+Sári István;1976;Budapest;12:05;Férfi
+Sárosi Roland MB 10x ;1972;Budapest;9:39;Férfi
+Sárvári Szabolcs MB 7x ;1976;Budapest;8:34;Férfi
+Sauerzapf Volker;1970;;6:04;Férfi
+Savos Andras;1973;Budapest;11:52;Férfi
+Schütz László;1964;Göd;12:33;Férfi
+Schweigert Krisztián;1973;Budapest;12:43;Férfi
+Sebestyén Imre;1956;Székesfehérvár;11:39;Férfi
+Sebestyén Kinga;1978;Budapest;8:01;Nő
+Sebők Ferenc MB 6x  TMXL 10x ;1973;Gomba;12:34;Férfi
+Sidló Csaba MB 6x ;1978;Budapest;10:23;Férfi
+Simon Imre;1990;Budapest;11:11;Férfi
+Simon József;1979;Debrecen;11:44;Férfi
+Simon Kornél;1983;Budapest;12:25;Férfi
+Simon Krisztián MB 10x ;1975;Nagyréde;10:28;Férfi
+Skenderovic Alfred;1978;Budapest;8:53;Férfi
+Solomampianina Gilot;1984;Budapest;8:16;Férfi
+Soltész János;1971;;9:58;Férfi
+Som Lajos;1986;Szeged;12:21;Férfi
+Somogyi Tibor MB 16x  TMXL 10x ;1978;Szentendre;9:17;Férfi
+Somossy Judit;1984;Budapest;12:58;Nő
+Spies Michael;1970;;5:42;Férfi
+Springer Róbert;1972;Budapest;12:38;Férfi
+Sulyok Ábris MB 5x ;1985;Pécs;7:11;Férfi
+Sütő László;1970;;7:28;Férfi
+Sütő László;1978;Debrecen;12:21;Férfi
+Sütő Péter;1980;Eger;12:21;Férfi
+Süvöltős Lajos MB 15x ;1979;Dunakeszi;8:37;Férfi
+Szabó Ágnes;1980;Budapest;8:19;Nő
+Szabó András;1967;Budapest;7:41;Férfi
+Szabó Áron TMXL 6x ;1986;Budapest;5:52;Férfi
+Szabó Ferenc MB 6x ;1972;Balatonfüred;11:37;Férfi
+Szabó Gábor;1984;Budapest;11:45;Férfi
+Szabó Gábor MB 10x ;1980;Vác;9:24;Férfi
+Szabó István;1974;Sajóörös;13:00;Férfi
+Szabó István Vilmos;1958;Bajna;11:10;Férfi
+Szabó István MB 9x ;1983;Budapest;9:09;Férfi
+Szabó János;1975;Kerepes;12:34;Férfi
+Szabó Judit MB 5x  TMXL 6x ;1979;Püspökladány;7:14;Nő
+Szabó Kenéz;1997;Budakeszi;10:38;Férfi
+Szabó Márton;1990;Zalaegerszeg;11:31;Férfi
+Szabó Mihály;1967;;8:18;Férfi
+Szabó Péter;1964;Törökbálint;12:14;Férfi
+Szabó Sándor MB 26x ;1973;Balassagyarmat;9:44;Férfi
+Szabó Tamás;1974;Füzesabony;8:54;Férfi
+Szabó Zsolt MB 11x ;1979;Budapest;8:53;Férfi
+Szabó Zsolt MB 6x ;1977;Hajdúsámson;9:48;Férfi
+Szabó Zsuzsanna TMXL 5x ;1977;Budapest;12:30;Nő
+Szabolcs Tamás MB 6x ;1974;Tamási;9:29;Férfi
+Szakács Péter Pál;1979;Debrecen;12:41;Férfi
+Szalkai Gábor MB 9x ;1976;Budapest;8:54;Férfi
+Szalontai Örs;1988;Balaton;12:19;Férfi
+Számel Róbert;1979;Medgyesegyháza;8:27;Férfi
+Szántó Bátor;1994;Budapest;12:15;Férfi
+Szántó Rúben MB 10x ;1991;Budapest;12:15;Férfi
+Szárnya István MB 5x  TMXL 6x ;1985;Gyöngyös;10:56;Férfi
+Szarvas Gábor;1983;Budapest;9:26;Férfi
+Szászfai Judit MB 24x ;1974;Miskolc;10:36;Nő
+Szebeni Attila;1980;Budapest - IV. kerület;11:00;Férfi
+Szécsényi Tamás HK 10x  MB 9x  TML 5x  TMXL 8x ;1983;Mátrafüred;10:45;Férfi
+Szegedi József MB 7x  TMXL 7x ;1958;Pétervására;9:25;Férfi
+Székely Gergő TMXL 6x ;1984;Budapest;10:55;Férfi
+Szekeres Tamás MB 13x  TMXL 12x ;1964;Szentkirályszabadja;5:27;Férfi
+Szekretár György Zsolt;1972;Szolnok;10:34;Férfi
+Szemán Gergely TMXL 10x ;1987;Kistarcsa;11:45;Férfi
+Szemán Zoltán;1983;Budapest;10:50;Férfi
+Szénás Kató;1967;Budapest;12:32;Nő
+Szenes Áron;1982;Budapest;12:05;Férfi
+Szente Mihály TMXL 5x ;1979;Budapest;12:01;Férfi
+Szepesi Gábor;1978;;6:44;Férfi
+Szepesi Zoltán;1970;;8:39;Férfi
+Szerencsés Gábor MB 9x ;1983;Bátonyterenye;12:22;Férfi
+Szerencsés Szabolcs TMXL 15x ;1973;Szolnok;9:58;Férfi
+Szigeti-Böröcz Ferenc;1978;Budapest;11:21;Férfi
+Szij Zoltán;1986;Tata;9:55;Férfi
+Szilágyi Antal Attila MB 30x ;1969;Pécs;8:14;Férfi
+Szilágyi Brigitta;1973;Budapest;8:00;Nő
+Szilágyi Erzsébet HK 7x  MB 5x ;1974;Szolnok;11:43;Nő
+Szilágyi László MB 11x ;1982;Debrecen;9:49;Férfi
+Szilárdi Tamás MB 11x  TMXL 8x ;1972;Budapest;10:56;Férfi
+Szimandl Anita MB 5x  TMXL 6x ;1985;Sóskút;7:57;Nő
+Szlatki Gabriella MB 10x ;1976;Budapest;9:31;Nő
+Szmolnik Zoltán MB 31x  TMXL 26x ;1971;Gyöngyös;8:26;Férfi
+Szoboszlai Csaba;1972;Ebes;11:32;Férfi
+Szoboszlai Gergely;1984;Budapest;12:27;Férfi
+Szokolay Zsolt;1960;Budapest;12:23;Férfi
+Szokolszky Istvan;1972;;6:42;Férfi
+Szollár László MB 12x  TMXL 10x  OM45 1x ;1965;Gyöngyös;10:48;Férfi
+Szomor Tibor;1972;Komló;12:59;Férfi
+Szőke György MB 17x  TMXL 16x ;1974;Nagyréde;11:06;Férfi
+Szőllős Vince MB 15x ;1977;Marakodipuszta;9:36;Férfi
+Szőllősi Gábor;1988;Jászberény;12:03;Férfi
+Szöllősi Imre;1995;Budapest;12:10;Férfi
+Szöllősi Zoltán MB 10x ;1965;Dunaújváros;10:45;Férfi
+Szűcs Györgyi MB 5x ;1970;Salgótarján;13:28;Nő
+Szűcs Imre Ferenc;1993;Mezőtúr;11:29;Férfi
+Szűcsi László MB 18x  TMXL 16x ;1962;Gyöngyöstarján;8:26;Férfi
+Szűgyi Zalán MB 8x ;1980;Budapest;11:29;Férfi
+Takács Attila MB 10x  TMXL 8x ;1976;Ecséd;10:30;Férfi
+Takács Edit;1984;Gyöngyös;10:15;Nő
+Takács Gábor;1968;Miskolc;7:11;Férfi
+Takács Gábor MB 5x ;1972;Budapest;11:15;Férfi
+Takács Gábor TMXL 10x ;1975;Budapest;10:25;Férfi
+Takács Zsolt;1978;Gyömrő;8:25;Férfi
+Tamás Viktor MB 30x ;1975;Szurdokpüspöki;8:16;Férfi
+Tamási Géza MB 8x ;1954;Budapest;10:51;Férfi
+Tardos Dániel;1992;Budapest;10:47;Férfi
+Tarjányi Piroska MB 6x ;1966;Kecskemét;12:05;Nő
+Tarnai Máté MB 8x  TMXL 5x ;1975;Budapest;8:21;Férfi
+Taskovics Attila;1968;Budapest;10:58;Férfi
+Tass Zoltán MB 5x  TMXL 6x ;1969;Solymár;11:40;Férfi
+Tatár Csaba MB 16x ;1980;Szécsény;12:50;Férfi
+Tatarek Áron MB 7x ;1999;Budapest;11:15;Férfi
+Tatarek Péter MB 26x ;1975;Budapest;11:15;Férfi
+Thold Tibor;1984;Hajdúnánás;11:07;Férfi
+Tímár László;1970;Budapest;11:52;Férfi
+Toldi Tibor MB 7x  TMXL 8x ;1978;Gyöngyös;8:03;Férfi
+Tolnai Gábor;1987;Budapest;11:28;Férfi
+Tomik Sándor MB 15x  TMXL 15x ;1967;Nagyfüged;9:41;Férfi
+Torma Albert HK 7x ;1971;Hajdúböszörmény;11:38;Férfi
+Torma Ferenc MB 6x ;1983;Budapest;12:25;Férfi
+Torma Levente;1977;;12:21;Férfi
+Tóth Árpád;1969;Budapest;11:18;Férfi
+Tóth Boglárka MB 8x  TMXL 7x ;1993;Gyöngyös;9:24;Nő
+Tóth Csaba MB 15x  TMXL 9x ;1971;Lőrinci;9:00;Férfi
+Tóth Domonkos;1990;;7:18;Férfi
+Tóth Ervin MB 31x ;1974;Budapest;10:54;Férfi
+Tóth Éva;1978;;8:02;Nő
+Tóth Ferenc;1987;Szeged;11:40;Férfi
+Tóth Ferenc MB 8x ;1961;Szákszend;12:37;Férfi
+Tóth Gábor MB 5x ;1984;Kecskemét;11:57;Férfi
+Tóth Gábor MB 5x  TMXL 6x ;1976;Kecskemét;12:11;Férfi
+Tóth György MB 28x  TMXL 7x ;1968;Békéscsaba;8:35;Férfi
+Tóth Helga TMXL 9x ;1975;Miskolc;9:26;Nő
+Tóth István Attila;1973;Budapest;8:04;Férfi
+Tóth István Zoltán;1977;Budapest;11:15;Férfi
+Tóth István MB 10x ;1969;Füzesabony;9:48;Férfi
+Tóth János Tamás MB 10x  TMXL 15x ;1975;Gyöngyöstarján;9:24;Férfi
+Tóth Péter Pál;1961;Budapest;11:55;Férfi
+Tóth Rajmund MB 6x ;1977;Tatabánya;11:51;Férfi
+Tóth Sándor MB 7x ;1971;Nagykáta;9:28;Férfi
+Tóth Szabolcs MB 10x  TMXL 6x  OM45 1x ;1977;Recsk;10:03;Férfi
+Tóth-Varga Judit;1976;Budapest;6:58;Nő
+Török Diana;1981;Hajdúszoboszló;11:35;Nő
+Török János MB 8x  TMXL 6x ;1968;Érd;11:17;Férfi
+Túri Jácint;1977;Mogyoród;10:02;Férfi
+Turtsányi Gábor MB 7x ;1992;Budapest;11:10;Férfi
+Udvardi Szabolcs MB 6x  TMM 10x ;1975;Budapest;7:56;Férfi
+Ungvári István MB 12x  TMXL 10x ;1976;Debrecen;10:22;Férfi
+Urbán Bertalan;1997;Jászdózsa;12:48;Férfi
+Urbán László MB 7x  TMXL 7x  OM45 1x ;1977;Szolnok;9:58;Férfi
+Urbán Tibor;1972;Gyöngyös;11:58;Férfi
+Úri Máté;1959;Besenyőtelek;8:31;Férfi
+Váczi János;1977;Dunaharaszti;12:27;Férfi
+Váczy Egon;1983;Tófalu;9:23;Férfi
+Vadászy László;1973;Tatabánya;12:15;Férfi
+Vadkerti Tóth Sándor;1969;Dabas;10:18;Férfi
+Vágner József HK 6x ;1955;Gyöngyöspata;11:21;Férfi
+Vágó Gábor MB 5x  TMXL 6x ;1976;Gyömrő;10:02;Férfi
+Vágó Iván MB 8x ;1980;Budapest;10:45;Férfi
+Vainel Gyula;1984;Budapest;10:55;Férfi
+Vajda Péter;1966;Szeged;11:16;Férfi
+Váli István;1969;;9:02;Férfi
+Varga Árpád MB 9x  TMXL 7x ;1995;Debrecen;12:01;Férfi
+Varga Balázs;1982;Budapest;11:45;Férfi
+Varga Boldizsár Attila MB 8x  TML 5x  TMXL 9x ;1976;Gyöngyös;9:24;Férfi
+Varga Gábor;1978;Dorogháza;12:53;Férfi
+Varga Gábor MB 7x ;1975;Füzeabony;8:15;Férfi
+Varga Gyula MB 13x  TMXL 9x ;1967;Debrecen;12:21;Férfi
+Varga Imre MB 5x  TMXL 6x ;1965;Debrecen;9:22;Férfi
+Varga László MB 8x ;1970;Budapest;11:41;Férfi
+Varga Roland;1975;Tarján;7:59;Férfi
+Varga Szabolcs;1976;Budapest;12:41;Férfi
+Varga Zsolt;1985;Szeged;12:35;Férfi
+Varga Zsolt MB 5x ;1970;Hort;11:59;Férfi
+Várhomoki István;1975;Debrecen;11:51;Férfi
+Vári Gábor MB 9x  TMXL 5x ;1984;Pécel;11:39;Férfi
+Varjaskéri Viola TMXL 7x ;1977;Budapest;7:32;Nő
+Varnyu György;1966;Gyál;11:13;Férfi
+Vaszkó Tibor MB 5x ;1964;Budapest;11:00;Férfi
+Végh Eszter Mária;1985;Budapest;9:21;Nő
+Végh Gyula;1963;Bokod;12:35;Férfi
+Verebélyi Tamás;1986;Budapest, VIII.;11:44;Férfi
+Veres A. Csaba;1983;Budapest;7:41;Férfi
+Veres Dániel;1995;Vámosgyörk;11:10;Férfi
+Veres Dániel;1984;Szolnok;13:30;Férfi
+Veres Gábor;1976;Vác;6:08;Férfi
+Veres Gábor MB 5x  TMXL 10x ;1967;Sarkad;12:35;Férfi
+Veres Jakó Károly TMXL 6x ;1972;Sarkad;12:37;Férfi
+Verinszky Zsolt MB 10x  TMXL 5x ;1976;Mátrafüred;8:49;Férfi
+Véső Tamás MB 13x ;1982;Sásd;9:52;Férfi
+Vida Imre MB 5x ;1975;Solt;11:28;Férfi
+Vida Valéria;1977;Tatabánya;11:34;Nő
+Víg Katalin MB 11x  TMXL 15x ;1973;Budapest;10:17;Nő
+Vig László MB 7x  TMXL 5x ;1957;Budapest;12:40;Férfi
+Vincze Gábor;1976;Budapest;11:40;Férfi
+Viniczai Kristóf MB 9x ;1988;Budapest;12:01;Férfi
+Visontai Dávid;1984;Gyenesdiás;9:59;Férfi
+Vitéz Ákos;1979;Szeged;10:00;Férfi
+Völgyi-Csík Ádám MB 10x  TMM 5x ;1996;Budapest;8:51;Férfi
+Völgyi-Csík István MB 14x  TMM 8x  TML 6x ;1962;Jászberény;9:15;Férfi
+Völgyi-Csíkné Bolla Enikő MB 7x  TMM 8x  TML 6x ;1969;Jászberény;11:41;Nő
+Vörös Áron;1982;Budapest;11:32;Férfi
+Vörös Gergő MB 10x  TMXL 8x ;1985;Pápa;8:54;Férfi
+Wagner András MB 9x  TMXL 5x ;1953;Budapest;8:47;Férfi
+Wehner Géza MB 16x  TMXL 17x ;1950;Budapest;11:15;Férfi
+Wehner Márton;1983;Budapest;11:18;Férfi
+Weinacht Ferenc;1977;Biatorbágy;12:33;Férfi
+Weinber Ferenc;1965;Dunaharaszti;8:34;Férfi
+Zádori Roland;1984;Budapest;8:35;Férfi
+Zagyi Edit;1979;Pásztó;9:10;Nő
+Zalotai Norbert;1976;Dunakeszi;8:18;Férfi
+Zay Zoltán;1976;Tarnalelesz;13:25;Férfi
+Zelei Tamás MB 15x  TMXL 6x ;1970;Budapest;10:56;Férfi
+Zemplényi Antal;1979;Pécs;10:02;Férfi
+Zóka-Ujhelyi Zoltán;1978;Budapest;5:41;Férfi
+Zrinyi Péter MB 17x ;1973;Szigetszentmiklós;11:52;Férfi
+Zsiros Csaba László;1965;Szécsény;11:51;Férfi
+Zsiros Sándor MB 33x  TMM 5x ;1967;Tiszalök;11:12;Férfi
